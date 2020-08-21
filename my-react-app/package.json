@@ -10,6 +10,11 @@
     "react-dom": "^16.13.1",
     "react-scripts": "3.4.3"
   },
+  "author": {
+    "name": "Sushant Sahu",
+    "email": "sushant87@gmail.com",
+    "url": "https://www.sushantsahu.com"
+  },
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
